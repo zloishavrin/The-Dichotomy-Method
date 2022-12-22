@@ -1,4 +1,4 @@
-# The-Dichotomy-Method
+# The Dichotomy Method
 Finding the root of an equation using the Dichotomy method.
 
 Finding the root by the method of half division. Used to refine the root of the equation f(x)=0 with a given accuracy ε. 
